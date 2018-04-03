@@ -1,16 +1,23 @@
 # Final project
 
 (1)
-Download a HTML template for your final project, and this template must be great-enough. 
 
-If your template is not great-enough, you need to choose another.
+Download HTML template for your final project, and this template must satisfy the following conditions.
+
+* more than three pages.
+
+* each page must contains js, css, bootstrap/jquery, images.
+
+* be satisfied with the purpose of FinTech
 
 (2)
-Creat a project and app, and transfer your template to fit djnago structure.
 
+Create a project and app, and transfer your template to fit djnago structure.
 
 # The attachment is an example for you to understand how to modify your template
+
 ## Project name: html_template
+
 ## Application name: main
 
 ~
